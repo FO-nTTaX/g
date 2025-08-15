@@ -1,0 +1,50 @@
+string(6495) "One of the great things about BGH is the fact that it lacks symmetry and balance. BGHers realized early on that balance is overrated and overcoming imbalance is sometimes what makes an epic game. Double Terran match ups can be the most imbalanced part of BGH. TT gives the opponent team ample time to tech up, place cannons, or even expand. TTZ is generally considered the weakest racial combination. PPT vs TTZ is the arguably most imbalanced match up on BGH. TTZ vs ZZP is a fairly balanced match up and can go either way depending on the skill involved. A lot depends on the positions. If you have 11/12 with one of the Terrans, this match up is actually quite favorable in most cases and choosing a build is not difficult because you have so many options. If this is not the case, often the Zerg's survival can decide the game. Generally speaking the Terrans will either have to deal with goons or a cannon rush and even sometimes a bunker rush. Zerg generally has to hold either a 2v1 or a 3v1 of zealots and Zerglings. If you're Zerg you will want to immediately decide if you want to get Zergling speed. If you are at a position where you have enemies far away and you can effectively harass without getting walled in by Zerglings or zealots, speed may be pivotal in slowing the opponents tech, giving great relief to your Terrans. The worst position that you could have with this match up is an 11v12 vs a P or a Z. In this case getting Zergling speed is absolutely useless and you may just choose to save your drones for sunkens and a mineral only economy until you're sufficiently safe or hold vs the 2v1/3v1. An overpool without gas will hold a 9 pool in 11v12 and a 12 pool without gas is good vs a Protoss. This situation is often similar to the UMS map "sunken defense". Zergling speed is not needed until your Terrans are ready to move, skip it until the last possible second. Skipping Zerglings for mutas may be the best option if your allies are also boxed in. Baiting the other team with a lair into your sunkens is very powerful if you hold and even if you don't but take a large enough force. Sometimes there's nothing you can do, but the important thing is if you took out enough units to tilt the game in your allies favor. These match ups are a bit easier because you have more options outside of "make sunkens". Protoss may need to opt for cannons if he faces an 11v12, because it will likely end up with a 2v1 or a 3v1. Tank drops in TT match ups should also not be overlooked as a choice, however in most situations MM or 3 fact mech are more dependable options. This is somewhat of a mirror match. Marines are going to be of limited value, unless it's an all-in attack or you're in a 1v1 situation vs the Non-T X. Just think TvT safely. Dropships are going to be definitely important in the mid-game and even cliff opens are pretty common. Air is also very good at breaking tank stalemates, whether it be wraith, mutas, or carriers all are good choices. These match ups are quite a bit easier. TvZ on BGH is generally considered pretty imbalanced for Z. Just 1 Terran going M&M is enough to shut down 2 Zergs massing lings. The hardest TTX match up would be TTX vs ZZT, because the other Terran is likely going mech. If you face this with TTX, at least 1 of your Terrans should also be meching as well. If you face ZZP, both Terrans can go M&M. This is actually a much easier match up. As soon as Terran is ready to move in this match up the game can shift directions very suddenly. As always vs ZZX match ups, going the techer, which in most cases will be the X, is generally GG if it's open to attack. This is a hard match up for TTX. One Terran should focus on marines, and the other Terran should focus on getting mech. Below is more detail about how to deal with the specifics that you will likely encounter vs the P in this match up. PPX and TPZ are probably the hardest match ups for TTX to handle. There's just a lot of pressure that comes with this match up. Hold. A lot depends on what the timing of the cannon rush is and what races you're vs. If its a 10 forge cannon rush with a 9 pool behind it, your allies will need to pick up some of the slack with either a counter on either of the rushers or help. Bunkers are your friend. If it's a 2 gate forge cannon rush and you went marines, just make bunkers and back up until the time is right (either allies come for the pinch or you have range and enough to take it). If you went mech and your marine pops inside your wall, don't stop making marines and get siege mode asap. If your marine pops outside you may be in real trouble, get few vults asap, snipe probe if possible then siege mode. Repair everything. When your wall falls (save your barrack), you'll need factory placed sufficiently close to the CC with a bunker on it. They may aim for your upgrade, so make sure your placement is good. Cannon rushes are almost always followed by Dark Templars, so get your engineering bay soon after you have siege mode. Cliffs are very effective vs cannon rushers and they give mobility that you lose from having to get siege first. Get a bunker behind the wall, and repair until you have range. If they have absolute map control you may need more bunkers than you think. If you see lings and goons approach, reload your bunker with stim. Goons by themselves can be beaten with stim and range and sufficient medic numbers. If you're the only Terran going marines, you need to time your push on middle with all of your allies, the other Terran will hopefully be able to mine the middle as you move out. Dark Templars are an obvious choice vs two Terrans so get an early scanner and a couple turrets in the middle as soon as you own the middle should secure it. Bunker before storm is complete and expand. Generally speaking if your vs ZZP, taking out the P is GG even if the attack is only 1/2 successful, so if you can go him early with confidence then that is the target. If you're Terran going mech and there's goons on you, you may need to make a bunker and get a tank. Play slow, and take into account whether or not there's an overlord outside your base as well. If you're playing vs TT and you see that you have not done sufficient damage to anyone and they are about to take the middle, you need to think about getting arbiters and drops well before you lose the middle. Carriers are also a good option. If you have a Terran ally he can pretty much focus on just making only tanks in order to secure it."
+int(2)
+array(23) {
+  [0]=>
+  string(7) "version"
+  [1]=>
+  string(4) "wiki"
+  [2]=>
+  string(9) "namespace"
+  [3]=>
+  string(14) "namespace_text"
+  [4]=>
+  string(5) "title"
+  [5]=>
+  string(9) "timestamp"
+  [6]=>
+  string(16) "create_timestamp"
+  [7]=>
+  string(8) "redirect"
+  [8]=>
+  string(14) "incoming_links"
+  [9]=>
+  string(8) "category"
+  [10]=>
+  string(13) "external_link"
+  [11]=>
+  string(13) "outgoing_link"
+  [12]=>
+  string(8) "template"
+  [13]=>
+  string(4) "text"
+  [14]=>
+  string(11) "source_text"
+  [15]=>
+  string(10) "text_bytes"
+  [16]=>
+  string(13) "content_model"
+  [17]=>
+  string(8) "language"
+  [18]=>
+  string(7) "heading"
+  [19]=>
+  string(12) "opening_text"
+  [20]=>
+  string(14) "auxiliary_text"
+  [21]=>
+  string(11) "defaultsort"
+  [22]=>
+  string(13) "display_title"
+}
