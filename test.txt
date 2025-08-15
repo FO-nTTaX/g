@@ -1,50 +1,588 @@
-string(6495) "One of the great things about BGH is the fact that it lacks symmetry and balance. BGHers realized early on that balance is overrated and overcoming imbalance is sometimes what makes an epic game. Double Terran match ups can be the most imbalanced part of BGH. TT gives the opponent team ample time to tech up, place cannons, or even expand. TTZ is generally considered the weakest racial combination. PPT vs TTZ is the arguably most imbalanced match up on BGH. TTZ vs ZZP is a fairly balanced match up and can go either way depending on the skill involved. A lot depends on the positions. If you have 11/12 with one of the Terrans, this match up is actually quite favorable in most cases and choosing a build is not difficult because you have so many options. If this is not the case, often the Zerg's survival can decide the game. Generally speaking the Terrans will either have to deal with goons or a cannon rush and even sometimes a bunker rush. Zerg generally has to hold either a 2v1 or a 3v1 of zealots and Zerglings. If you're Zerg you will want to immediately decide if you want to get Zergling speed. If you are at a position where you have enemies far away and you can effectively harass without getting walled in by Zerglings or zealots, speed may be pivotal in slowing the opponents tech, giving great relief to your Terrans. The worst position that you could have with this match up is an 11v12 vs a P or a Z. In this case getting Zergling speed is absolutely useless and you may just choose to save your drones for sunkens and a mineral only economy until you're sufficiently safe or hold vs the 2v1/3v1. An overpool without gas will hold a 9 pool in 11v12 and a 12 pool without gas is good vs a Protoss. This situation is often similar to the UMS map "sunken defense". Zergling speed is not needed until your Terrans are ready to move, skip it until the last possible second. Skipping Zerglings for mutas may be the best option if your allies are also boxed in. Baiting the other team with a lair into your sunkens is very powerful if you hold and even if you don't but take a large enough force. Sometimes there's nothing you can do, but the important thing is if you took out enough units to tilt the game in your allies favor. These match ups are a bit easier because you have more options outside of "make sunkens". Protoss may need to opt for cannons if he faces an 11v12, because it will likely end up with a 2v1 or a 3v1. Tank drops in TT match ups should also not be overlooked as a choice, however in most situations MM or 3 fact mech are more dependable options. This is somewhat of a mirror match. Marines are going to be of limited value, unless it's an all-in attack or you're in a 1v1 situation vs the Non-T X. Just think TvT safely. Dropships are going to be definitely important in the mid-game and even cliff opens are pretty common. Air is also very good at breaking tank stalemates, whether it be wraith, mutas, or carriers all are good choices. These match ups are quite a bit easier. TvZ on BGH is generally considered pretty imbalanced for Z. Just 1 Terran going M&M is enough to shut down 2 Zergs massing lings. The hardest TTX match up would be TTX vs ZZT, because the other Terran is likely going mech. If you face this with TTX, at least 1 of your Terrans should also be meching as well. If you face ZZP, both Terrans can go M&M. This is actually a much easier match up. As soon as Terran is ready to move in this match up the game can shift directions very suddenly. As always vs ZZX match ups, going the techer, which in most cases will be the X, is generally GG if it's open to attack. This is a hard match up for TTX. One Terran should focus on marines, and the other Terran should focus on getting mech. Below is more detail about how to deal with the specifics that you will likely encounter vs the P in this match up. PPX and TPZ are probably the hardest match ups for TTX to handle. There's just a lot of pressure that comes with this match up. Hold. A lot depends on what the timing of the cannon rush is and what races you're vs. If its a 10 forge cannon rush with a 9 pool behind it, your allies will need to pick up some of the slack with either a counter on either of the rushers or help. Bunkers are your friend. If it's a 2 gate forge cannon rush and you went marines, just make bunkers and back up until the time is right (either allies come for the pinch or you have range and enough to take it). If you went mech and your marine pops inside your wall, don't stop making marines and get siege mode asap. If your marine pops outside you may be in real trouble, get few vults asap, snipe probe if possible then siege mode. Repair everything. When your wall falls (save your barrack), you'll need factory placed sufficiently close to the CC with a bunker on it. They may aim for your upgrade, so make sure your placement is good. Cannon rushes are almost always followed by Dark Templars, so get your engineering bay soon after you have siege mode. Cliffs are very effective vs cannon rushers and they give mobility that you lose from having to get siege first. Get a bunker behind the wall, and repair until you have range. If they have absolute map control you may need more bunkers than you think. If you see lings and goons approach, reload your bunker with stim. Goons by themselves can be beaten with stim and range and sufficient medic numbers. If you're the only Terran going marines, you need to time your push on middle with all of your allies, the other Terran will hopefully be able to mine the middle as you move out. Dark Templars are an obvious choice vs two Terrans so get an early scanner and a couple turrets in the middle as soon as you own the middle should secure it. Bunker before storm is complete and expand. Generally speaking if your vs ZZP, taking out the P is GG even if the attack is only 1/2 successful, so if you can go him early with confidence then that is the target. If you're Terran going mech and there's goons on you, you may need to make a bunker and get a tank. Play slow, and take into account whether or not there's an overlord outside your base as well. If you're playing vs TT and you see that you have not done sufficient damage to anyone and they are about to take the middle, you need to think about getting arbiters and drops well before you lose the middle. Carriers are also a good option. If you have a Terran ally he can pretty much focus on just making only tanks in order to secure it."
-int(2)
-array(23) {
+array(2) {
   [0]=>
-  string(7) "version"
+  object(Elastica\Result)#15 (1) {
+    ["_hit":protected]=>
+    array(5) {
+      ["_index"]=>
+      string(30) "liquipedia-wiki__content_first"
+      ["_type"]=>
+      string(4) "_doc"
+      ["_id"]=>
+      string(5) "15032"
+      ["_score"]=>
+      float(15.137002)
+      ["_source"]=>
+      array(23) {
+        ["version"]=>
+        int(496558)
+        ["wiki"]=>
+        string(16) "liquipedia-wiki_"
+        ["namespace"]=>
+        int(0)
+        ["namespace_text"]=>
+        string(0) ""
+        ["title"]=>
+        string(29) "Big Game Hunters/TT match ups"
+        ["timestamp"]=>
+        string(20) "2025-03-26T04:27:11Z"
+        ["create_timestamp"]=>
+        string(20) "2014-06-20T16:12:35Z"
+        ["redirect"]=>
+        array(1) {
+          [0]=>
+          array(2) {
+            ["namespace"]=>
+            int(0)
+            ["title"]=>
+            string(12) "TT match ups"
+          }
+        }
+        ["incoming_links"]=>
+        int(23)
+        ["category"]=>
+        array(1) {
+          [0]=>
+          string(17) "Terran Strategies"
+        }
+        ["external_link"]=>
+        array(0) {
+        }
+        ["outgoing_link"]=>
+        array(21) {
+          [0]=>
+          string(16) "Big_Game_Hunters"
+          [1]=>
+          string(32) "Big_Game_Hunters/Beginners_Guide"
+          [2]=>
+          string(31) "Big_Game_Hunters/Beginners_Test"
+          [3]=>
+          string(29) "Big_Game_Hunters/Build_Orders"
+          [4]=>
+          string(35) "Big_Game_Hunters/Building_Placement"
+          [5]=>
+          string(25) "Big_Game_Hunters/Cliffing"
+          [6]=>
+          string(29) "Big_Game_Hunters/PP_match_ups"
+          [7]=>
+          string(30) "Big_Game_Hunters/PTZ_match_ups"
+          [8]=>
+          string(22) "Big_Game_Hunters/PZvPP"
+          [9]=>
+          string(30) "Big_Game_Hunters/Protoss_Guide"
+          [10]=>
+          string(29) "Big_Game_Hunters/Public_Games"
+          [11]=>
+          string(33) "Big_Game_Hunters/Resources_Income"
+          [12]=>
+          string(25) "Big_Game_Hunters/Teamplay"
+          [13]=>
+          string(29) "Big_Game_Hunters/Terran_Guide"
+          [14]=>
+          string(25) "Big_Game_Hunters/Wall-Ins"
+          [15]=>
+          string(29) "Big_Game_Hunters/ZZ_match_ups"
+          [16]=>
+          string(27) "Big_Game_Hunters/Zerg_Guide"
+          [17]=>
+          string(27) "Big_Game_Hunters/Imbalances"
+          [18]=>
+          string(29) "User:2Pacalypse-/P-Wars_(BGH)"
+          [19]=>
+          string(28) "User:2Pacalypse-/TZvPP_(BGH)"
+          [20]=>
+          string(21) "Portal:BigGameHunters"
+        }
+        ["template"]=>
+        array(34) {
+          [0]=>
+          string(18) "Template:BGHNavBox"
+          [1]=>
+          string(15) "Template:NavBox"
+          [2]=>
+          string(20) "Template:NavBoxChild"
+          [3]=>
+          string(10) "Module:Lua"
+          [4]=>
+          string(18) "Module:FeatureFlag"
+          [5]=>
+          string(25) "Module:FeatureFlag/Config"
+          [6]=>
+          string(12) "Module:Logic"
+          [7]=>
+          string(12) "Module:Table"
+          [8]=>
+          string(18) "Module:StringUtils"
+          [9]=>
+          string(21) "Module:Widget/Factory"
+          [10]=>
+          string(12) "Module:Class"
+          [11]=>
+          string(16) "Module:Arguments"
+          [12]=>
+          string(20) "Module:Error/Display"
+          [13]=>
+          string(12) "Module:Array"
+          [14]=>
+          string(16) "Module:Error/Ext"
+          [15]=>
+          string(12) "Module:Error"
+          [16]=>
+          string(11) "Module:Json"
+          [17]=>
+          string(28) "Module:PageVariableNamespace"
+          [18]=>
+          string(11) "Module:Page"
+          [19]=>
+          string(20) "Module:ResultOrError"
+          [20]=>
+          string(20) "Module:Widget/NavBox"
+          [21]=>
+          string(16) "Module:Namespace"
+          [22]=>
+          string(13) "Module:FnUtil"
+          [23]=>
+          string(16) "Module:Variables"
+          [24]=>
+          string(40) "Module:Widget/GeneralCollapsible/Default"
+          [25]=>
+          string(39) "Module:Widget/GeneralCollapsible/Toggle"
+          [26]=>
+          string(13) "Module:Widget"
+          [27]=>
+          string(22) "Module:Widget/Html/All"
+          [28]=>
+          string(31) "Module:Widget/NavBox/EditButton"
+          [29]=>
+          string(24) "Module:Widget/Basic/Link"
+          [30]=>
+          string(18) "Module:Widget/Util"
+          [31]=>
+          string(26) "Module:Widget/NavBox/Child"
+          [32]=>
+          string(12) "Module:Image"
+          [33]=>
+          string(25) "Module:Widget/NavBox/List"
+        }
+        ["text"]=>
+        string(6495) "One of the great things about BGH is the fact that it lacks symmetry and balance. BGHers realized early on that balance is overrated and overcoming imbalance is sometimes what makes an epic game. Double Terran match ups can be the most imbalanced part of BGH. TT gives the opponent team ample time to tech up, place cannons, or even expand. TTZ is generally considered the weakest racial combination. PPT vs TTZ is the arguably most imbalanced match up on BGH. TTZ vs ZZP is a fairly balanced match up and can go either way depending on the skill involved. A lot depends on the positions. If you have 11/12 with one of the Terrans, this match up is actually quite favorable in most cases and choosing a build is not difficult because you have so many options. If this is not the case, often the Zerg's survival can decide the game. Generally speaking the Terrans will either have to deal with goons or a cannon rush and even sometimes a bunker rush. Zerg generally has to hold either a 2v1 or a 3v1 of zealots and Zerglings. If you're Zerg you will want to immediately decide if you want to get Zergling speed. If you are at a position where you have enemies far away and you can effectively harass without getting walled in by Zerglings or zealots, speed may be pivotal in slowing the opponents tech, giving great relief to your Terrans. The worst position that you could have with this match up is an 11v12 vs a P or a Z. In this case getting Zergling speed is absolutely useless and you may just choose to save your drones for sunkens and a mineral only economy until you're sufficiently safe or hold vs the 2v1/3v1. An overpool without gas will hold a 9 pool in 11v12 and a 12 pool without gas is good vs a Protoss. This situation is often similar to the UMS map "sunken defense". Zergling speed is not needed until your Terrans are ready to move, skip it until the last possible second. Skipping Zerglings for mutas may be the best option if your allies are also boxed in. Baiting the other team with a lair into your sunkens is very powerful if you hold and even if you don't but take a large enough force. Sometimes there's nothing you can do, but the important thing is if you took out enough units to tilt the game in your allies favor. These match ups are a bit easier because you have more options outside of "make sunkens". Protoss may need to opt for cannons if he faces an 11v12, because it will likely end up with a 2v1 or a 3v1. Tank drops in TT match ups should also not be overlooked as a choice, however in most situations MM or 3 fact mech are more dependable options. This is somewhat of a mirror match. Marines are going to be of limited value, unless it's an all-in attack or you're in a 1v1 situation vs the Non-T X. Just think TvT safely. Dropships are going to be definitely important in the mid-game and even cliff opens are pretty common. Air is also very good at breaking tank stalemates, whether it be wraith, mutas, or carriers all are good choices. These match ups are quite a bit easier. TvZ on BGH is generally considered pretty imbalanced for Z. Just 1 Terran going M&M is enough to shut down 2 Zergs massing lings. The hardest TTX match up would be TTX vs ZZT, because the other Terran is likely going mech. If you face this with TTX, at least 1 of your Terrans should also be meching as well. If you face ZZP, both Terrans can go M&M. This is actually a much easier match up. As soon as Terran is ready to move in this match up the game can shift directions very suddenly. As always vs ZZX match ups, going the techer, which in most cases will be the X, is generally GG if it's open to attack. This is a hard match up for TTX. One Terran should focus on marines, and the other Terran should focus on getting mech. Below is more detail about how to deal with the specifics that you will likely encounter vs the P in this match up. PPX and TPZ are probably the hardest match ups for TTX to handle. There's just a lot of pressure that comes with this match up. Hold. A lot depends on what the timing of the cannon rush is and what races you're vs. If its a 10 forge cannon rush with a 9 pool behind it, your allies will need to pick up some of the slack with either a counter on either of the rushers or help. Bunkers are your friend. If it's a 2 gate forge cannon rush and you went marines, just make bunkers and back up until the time is right (either allies come for the pinch or you have range and enough to take it). If you went mech and your marine pops inside your wall, don't stop making marines and get siege mode asap. If your marine pops outside you may be in real trouble, get few vults asap, snipe probe if possible then siege mode. Repair everything. When your wall falls (save your barrack), you'll need factory placed sufficiently close to the CC with a bunker on it. They may aim for your upgrade, so make sure your placement is good. Cannon rushes are almost always followed by Dark Templars, so get your engineering bay soon after you have siege mode. Cliffs are very effective vs cannon rushers and they give mobility that you lose from having to get siege first. Get a bunker behind the wall, and repair until you have range. If they have absolute map control you may need more bunkers than you think. If you see lings and goons approach, reload your bunker with stim. Goons by themselves can be beaten with stim and range and sufficient medic numbers. If you're the only Terran going marines, you need to time your push on middle with all of your allies, the other Terran will hopefully be able to mine the middle as you move out. Dark Templars are an obvious choice vs two Terrans so get an early scanner and a couple turrets in the middle as soon as you own the middle should secure it. Bunker before storm is complete and expand. Generally speaking if your vs ZZP, taking out the P is GG even if the attack is only 1/2 successful, so if you can go him early with confidence then that is the target. If you're Terran going mech and there's goons on you, you may need to make a bunker and get a tank. Play slow, and take into account whether or not there's an overlord outside your base as well. If you're playing vs TT and you see that you have not done sufficient damage to anyone and they are about to take the middle, you need to think about getting arbiters and drops well before you lose the middle. Carriers are also a good option. If you have a Terran ally he can pretty much focus on just making only tanks in order to secure it."
+        ["source_text"]=>
+        string(6824) "{{BGHNavBox}}
+
+==Introduction==
+One of the great things about BGH is the fact that it lacks symmetry and balance. BGHers realized early on that balance is overrated and overcoming imbalance is sometimes what makes an epic game. Double Terran match ups can be the most imbalanced part of BGH. TT gives the opponent team ample time to tech up, place cannons, or even expand. TTZ is generally considered the weakest racial combination. PPT vs TTZ is the arguably most imbalanced match up on BGH. TTZ vs ZZP is a fairly balanced match up and can go either way depending on the skill involved.
+
+==Choosing Proper Build Order for TTZ==
+A lot depends on the positions. If you have 11/12 with one of the Terrans, this match up is actually quite favorable in most cases and choosing a build is not difficult because you have so many options. If this is not the case, often the Zerg's survival can decide the game. Generally speaking the Terrans will either have to deal with goons or a cannon rush and even sometimes a bunker rush. Zerg generally has to hold either a 2v1 or a 3v1 of zealots and Zerglings. If you're Zerg you will want to immediately decide if you want to get Zergling speed. If you are at a position where you have enemies far away and you can effectively harass without getting walled in by Zerglings or zealots, speed may be pivotal in slowing the opponents tech, giving great relief to your Terrans. The worst position that you could have with this match up is an 11v12 vs a P or a Z. In this case getting Zergling speed is absolutely useless and you may just choose to save your drones for sunkens and a mineral only economy until you're sufficiently safe or hold vs the 2v1/3v1. An overpool without gas will hold a 9 pool in 11v12 and a 12 pool without gas is good vs a Protoss. This situation is often similar to the UMS map "sunken defense". Zergling speed is not needed until your Terrans are ready to move, skip it until the last possible second. Skipping Zerglings for mutas may be the best option if your allies are also boxed in. Baiting the other team with a lair into your sunkens is very powerful if you hold and even if you don't but take a large enough force. Sometimes there's nothing you can do, but the important thing is if you took out enough units to tilt the game in your allies favor. 
+==TTP and TTT vs XXX==
+These match ups are a bit easier because you have more options outside of "make sunkens". Protoss may need to opt for cannons if he faces an 11v12, because it will likely end up with a 2v1 or a 3v1. Tank drops in TT match ups should also not be overlooked as a choice, however in most situations MM or 3 fact mech are more dependable options.<br />
+
+==TTX vs TTX==
+This is somewhat of a mirror match. Marines are going to be of limited value, unless it's an all-in attack or you're in a 1v1 situation vs the Non-T X. Just think TvT safely. Dropships are going to be definitely important in the mid-game and even cliff opens are pretty common. Air is also very good at breaking tank stalemates, whether it be wraith, mutas, or carriers all are good choices.
+
+==TTX vs ZZX==
+These match ups are quite a bit easier. TvZ on BGH is generally considered pretty imbalanced for Z. Just 1 Terran going M&M is enough to shut down 2 Zergs massing lings. The hardest TTX match up would be TTX vs ZZT, because the other Terran is likely going mech. If you face this with TTX, at least 1 of your Terrans should also be meching as well. If you face ZZP, both Terrans can go M&M. This is actually a much easier match up. As soon as Terran is ready to move in this match up the game can shift directions very suddenly. As always vs ZZX match ups, going the techer, which in most cases will be the X, is generally GG if it's open to attack.
+==TTX vs TPZ==
+This is a hard match up for TTX. One Terran should focus on marines, and the other Terran should focus on getting mech. Below is more detail about how to deal with the specifics that you will likely encounter vs the P in this match up.
+==TTX vs PPX==
+PPX and TPZ are probably the hardest match ups for TTX to handle. There's just a lot of pressure that comes with this match up. <br />
+
+===What to do vs cannon rush===
+Hold. A lot depends on what the timing of the cannon rush is and what races you're vs. If its a 10 forge cannon rush with a 9 pool behind it, your allies will need to pick up some of the slack with either a counter on either of the rushers or help. Bunkers are your friend. If it's a 2 gate forge cannon rush and you went marines, just make bunkers and back up until the time is right (either allies come for the pinch or you have range and enough to take it). If you went mech and your marine pops inside your wall, don't stop making marines and get siege mode asap. If your marine pops outside you may be in real trouble, get few vults asap, snipe probe if possible then siege mode. Repair everything. When your wall falls (save your barrack), you'll need factory placed sufficiently close to the CC with a bunker on it. They may aim for your upgrade, so make sure your placement is good. Cannon rushes are almost always followed by Dark Templars, so get your engineering bay soon after you have siege mode. Cliffs are very effective vs cannon rushers and they give mobility that you lose from having to get siege first.
+===What to do vs goons===
+Get a bunker behind the wall, and repair until you have range. If they have absolute map control you may need more bunkers than you think. If you see lings and goons approach, reload your bunker with stim. Goons by themselves can be beaten with stim and range and sufficient medic numbers. If you're the only Terran going marines, you need to time your push on middle with all of your allies, the other Terran will hopefully be able to mine the middle as you move out. Dark Templars are an obvious choice vs two Terrans so get an early scanner and a couple turrets in the middle as soon as you own the middle should secure it. Bunker before storm is complete and expand. Generally speaking if your vs ZZP, taking out the P is GG even if the attack is only 1/2 successful, so if you can go him early with confidence then that is the target. <br />
+
+If you're Terran going mech and there's goons on you, you may need to make a bunker and get a tank. Play slow, and take into account whether or not there's an overlord outside your base as well.
+
+==What to do vs TT match ups after you lose the middle==
+If you're playing vs TT and you see that you have not done sufficient damage to anyone and they are about to take the middle, you need to think about getting arbiters and drops well before you lose the middle. Carriers are also a good option. If you have a Terran ally he can pretty much focus on just making only tanks in order to secure it.
+
+[[Category:Terran Strategies]]"
+        ["text_bytes"]=>
+        int(6824)
+        ["content_model"]=>
+        string(8) "wikitext"
+        ["language"]=>
+        string(2) "en"
+        ["heading"]=>
+        array(10) {
+          [0]=>
+          string(12) "Introduction"
+          [1]=>
+          string(35) "Choosing Proper Build Order for TTZ"
+          [2]=>
+          string(18) "TTP and TTT vs XXX"
+          [3]=>
+          string(10) "TTX vs TTX"
+          [4]=>
+          string(10) "TTX vs ZZX"
+          [5]=>
+          string(10) "TTX vs TPZ"
+          [6]=>
+          string(10) "TTX vs PPX"
+          [7]=>
+          string(25) "What to do vs cannon rush"
+          [8]=>
+          string(19) "What to do vs goons"
+          [9]=>
+          string(52) "What to do vs TT match ups after you lose the middle"
+        }
+        ["opening_text"]=>
+        NULL
+        ["auxiliary_text"]=>
+        array(0) {
+        }
+        ["defaultsort"]=>
+        NULL
+        ["display_title"]=>
+        NULL
+      }
+    }
+  }
   [1]=>
-  string(4) "wiki"
-  [2]=>
-  string(9) "namespace"
-  [3]=>
-  string(14) "namespace_text"
-  [4]=>
-  string(5) "title"
-  [5]=>
-  string(9) "timestamp"
-  [6]=>
-  string(16) "create_timestamp"
-  [7]=>
-  string(8) "redirect"
-  [8]=>
-  string(14) "incoming_links"
-  [9]=>
-  string(8) "category"
-  [10]=>
-  string(13) "external_link"
-  [11]=>
-  string(13) "outgoing_link"
-  [12]=>
-  string(8) "template"
-  [13]=>
-  string(4) "text"
-  [14]=>
-  string(11) "source_text"
-  [15]=>
-  string(10) "text_bytes"
-  [16]=>
-  string(13) "content_model"
-  [17]=>
-  string(8) "language"
-  [18]=>
-  string(7) "heading"
-  [19]=>
-  string(12) "opening_text"
-  [20]=>
-  string(14) "auxiliary_text"
-  [21]=>
-  string(11) "defaultsort"
-  [22]=>
-  string(13) "display_title"
+  object(Elastica\Result)#18 (1) {
+    ["_hit":protected]=>
+    array(5) {
+      ["_index"]=>
+      string(30) "liquipedia-wiki__content_first"
+      ["_type"]=>
+      string(4) "_doc"
+      ["_id"]=>
+      string(5) "15073"
+      ["_score"]=>
+      float(15.137002)
+      ["_source"]=>
+      array(23) {
+        ["version"]=>
+        int(408835)
+        ["wiki"]=>
+        string(16) "liquipedia-wiki_"
+        ["namespace"]=>
+        int(0)
+        ["namespace_text"]=>
+        string(0) ""
+        ["title"]=>
+        string(29) "Big Game Hunters/PP match ups"
+        ["timestamp"]=>
+        string(20) "2022-10-01T16:02:22Z"
+        ["create_timestamp"]=>
+        string(20) "2014-07-09T15:39:14Z"
+        ["redirect"]=>
+        array(1) {
+          [0]=>
+          array(2) {
+            ["namespace"]=>
+            int(0)
+            ["title"]=>
+            string(12) "PP match ups"
+          }
+        }
+        ["incoming_links"]=>
+        int(22)
+        ["category"]=>
+        array(2) {
+          [0]=>
+          string(20) "Protoss Build Orders"
+          [1]=>
+          string(10) "Strategies"
+        }
+        ["external_link"]=>
+        array(0) {
+        }
+        ["outgoing_link"]=>
+        array(24) {
+          [0]=>
+          string(25) "Template:Infobox_strategy"
+          [1]=>
+          string(16) "Big_Game_Hunters"
+          [2]=>
+          string(32) "Big_Game_Hunters/Beginners_Guide"
+          [3]=>
+          string(31) "Big_Game_Hunters/Beginners_Test"
+          [4]=>
+          string(29) "Big_Game_Hunters/Build_Orders"
+          [5]=>
+          string(35) "Big_Game_Hunters/Building_Placement"
+          [6]=>
+          string(25) "Big_Game_Hunters/Cliffing"
+          [7]=>
+          string(30) "Big_Game_Hunters/PTZ_match_ups"
+          [8]=>
+          string(22) "Big_Game_Hunters/PZvPP"
+          [9]=>
+          string(30) "Big_Game_Hunters/Protoss_Guide"
+          [10]=>
+          string(29) "Big_Game_Hunters/Public_Games"
+          [11]=>
+          string(33) "Big_Game_Hunters/Resources_Income"
+          [12]=>
+          string(29) "Big_Game_Hunters/TT_match_ups"
+          [13]=>
+          string(25) "Big_Game_Hunters/Teamplay"
+          [14]=>
+          string(29) "Big_Game_Hunters/Terran_Guide"
+          [15]=>
+          string(25) "Big_Game_Hunters/Wall-Ins"
+          [16]=>
+          string(29) "Big_Game_Hunters/ZZ_match_ups"
+          [17]=>
+          string(27) "Big_Game_Hunters/Zerg_Guide"
+          [18]=>
+          string(18) "Build_Orders_(BGH)"
+          [19]=>
+          string(14) "Teamplay_(BGH)"
+          [20]=>
+          string(27) "Big_Game_Hunters/Imbalances"
+          [21]=>
+          string(29) "User:2Pacalypse-/P-Wars_(BGH)"
+          [22]=>
+          string(28) "User:2Pacalypse-/TZvPP_(BGH)"
+          [23]=>
+          string(21) "Portal:BigGameHunters"
+        }
+        ["template"]=>
+        array(92) {
+          [0]=>
+          string(18) "Template:BGHNavBox"
+          [1]=>
+          string(15) "Template:NavBox"
+          [2]=>
+          string(20) "Template:NavBoxChild"
+          [3]=>
+          string(25) "Template:Infobox strategy"
+          [4]=>
+          string(10) "Module:Lua"
+          [5]=>
+          string(18) "Module:FeatureFlag"
+          [6]=>
+          string(25) "Module:FeatureFlag/Config"
+          [7]=>
+          string(12) "Module:Logic"
+          [8]=>
+          string(12) "Module:Table"
+          [9]=>
+          string(18) "Module:StringUtils"
+          [10]=>
+          string(21) "Module:Widget/Factory"
+          [11]=>
+          string(12) "Module:Class"
+          [12]=>
+          string(16) "Module:Arguments"
+          [13]=>
+          string(20) "Module:Error/Display"
+          [14]=>
+          string(12) "Module:Array"
+          [15]=>
+          string(16) "Module:Error/Ext"
+          [16]=>
+          string(12) "Module:Error"
+          [17]=>
+          string(11) "Module:Json"
+          [18]=>
+          string(28) "Module:PageVariableNamespace"
+          [19]=>
+          string(11) "Module:Page"
+          [20]=>
+          string(20) "Module:ResultOrError"
+          [21]=>
+          string(20) "Module:Widget/NavBox"
+          [22]=>
+          string(16) "Module:Namespace"
+          [23]=>
+          string(13) "Module:FnUtil"
+          [24]=>
+          string(16) "Module:Variables"
+          [25]=>
+          string(40) "Module:Widget/GeneralCollapsible/Default"
+          [26]=>
+          string(39) "Module:Widget/GeneralCollapsible/Toggle"
+          [27]=>
+          string(13) "Module:Widget"
+          [28]=>
+          string(22) "Module:Widget/Html/All"
+          [29]=>
+          string(26) "Module:Widget/Basic/Button"
+          [30]=>
+          string(24) "Module:Widget/Basic/Link"
+          [31]=>
+          string(18) "Module:Widget/Util"
+          [32]=>
+          string(36) "Module:Widget/Image/Icon/Fontawesome"
+          [33]=>
+          string(11) "Module:Icon"
+          [34]=>
+          string(16) "Module:Icon/Data"
+          [35]=>
+          string(24) "Module:Widget/Image/Icon"
+          [36]=>
+          string(26) "Module:Widget/NavBox/Title"
+          [37]=>
+          string(31) "Module:Widget/NavBox/EditButton"
+          [38]=>
+          string(26) "Module:Widget/NavBox/Child"
+          [39]=>
+          string(12) "Module:Image"
+          [40]=>
+          string(25) "Module:Widget/NavBox/List"
+          [41]=>
+          string(30) "Module:Infobox/Strategy/Custom"
+          [42]=>
+          string(14) "Module:Faction"
+          [43]=>
+          string(15) "Module:TypeUtil"
+          [44]=>
+          string(19) "Module:Faction/Data"
+          [45]=>
+          string(29) "Module:Faction/Data/Starcraft"
+          [46]=>
+          string(11) "Module:Info"
+          [47]=>
+          string(23) "Module:Faction/IconData"
+          [48]=>
+          string(22) "Module:Widget/Injector"
+          [49]=>
+          string(23) "Module:Infobox/Strategy"
+          [50]=>
+          string(20) "Module:Infobox/Basic"
+          [51]=>
+          string(26) "Module:Widget/Infobox/Core"
+          [52]=>
+          string(17) "Module:WarningBox"
+          [53]=>
+          string(17) "Module:Widget/All"
+          [54]=>
+          string(21) "Module:Widget/Builder"
+          [55]=>
+          string(26) "Module:Widget/Customizable"
+          [56]=>
+          string(35) "Module:Widget/Contexts/Customizable"
+          [57]=>
+          string(21) "Module:Widget/Context"
+          [58]=>
+          string(35) "Module:Widget/Infobox/Accommodation"
+          [59]=>
+          string(15) "Module:Date/Ext"
+          [60]=>
+          string(14) "Module:Ordinal"
+          [61]=>
+          string(19) "Module:Ordinal/Data"
+          [62]=>
+          string(15) "Module:Timezone"
+          [63]=>
+          string(20) "Module:Timezone/Data"
+          [64]=>
+          string(12) "Module:Flags"
+          [65]=>
+          string(23) "Module:Flags/MasterData"
+          [66]=>
+          string(15) "Module:Template"
+          [67]=>
+          string(13) "Module:Locale"
+          [68]=>
+          string(15) "Module:Operator"
+          [69]=>
+          string(13) "Module:Region"
+          [70]=>
+          string(18) "Module:Region/Data"
+          [71]=>
+          string(25) "Module:Region/CountryData"
+          [72]=>
+          string(28) "Module:Widget/Infobox/Center"
+          [73]=>
+          string(27) "Module:Widget/Infobox/Title"
+          [74]=>
+          string(31) "Module:Widget/Infobox/Breakdown"
+          [75]=>
+          string(26) "Module:Widget/Infobox/Cell"
+          [76]=>
+          string(41) "Module:Widget/Infobox/ChronologyContainer"
+          [77]=>
+          string(32) "Module:Widget/Infobox/Chronology"
+          [78]=>
+          string(36) "Module:Widget/Misc/InlineIconAndText"
+          [79]=>
+          string(28) "Module:Widget/Infobox/Header"
+          [80]=>
+          string(32) "Module:Widget/Infobox/Highlights"
+          [81]=>
+          string(27) "Module:Widget/Infobox/Links"
+          [82]=>
+          string(12) "Module:Links"
+          [83]=>
+          string(23) "Module:Links/CustomData"
+          [84]=>
+          string(27) "Module:Links/PriorityGroups"
+          [85]=>
+          string(30) "Module:Widget/Infobox/Location"
+          [86]=>
+          string(32) "Module:Widget/Infobox/Organizers"
+          [87]=>
+          string(27) "Module:Widget/Infobox/Venue"
+          [88]=>
+          string(23) "Module:Widget/Table/Old"
+          [89]=>
+          string(23) "Module:Widget/Table/Row"
+          [90]=>
+          string(24) "Module:Widget/Table/Cell"
+          [91]=>
+          string(29) "Module:Widget/Basic/DataTable"
+        }
+        ["text"]=>
+        string(2192) "PPX Match Ups 3v3 Teamplay Strategy Information Matchups: BGH3v3 Type: Opening PPR is one of the strongest choices on BGH. Having two Protoss players on the same team gives the third player a lot of options. Also having the R, not knowing what to prepare for leaves the other team guessing on how to open. This can give the PPR team a big advantage if the other team has opened with a bad guess or a late correction. PPZ teams will generally have 1 player going tech. The only time when this is not the case is a mirror match. Offensive or containment cannons vs Terran opponents are common as a substitute for tech or an addition to it. Generally the P farthest from the enemies either distance wise or most well protected will go fast goons (FG or FD). The only cases where this is the incorrect build is when you face a mirror or ZZX opponents. In this case, it's best to have the Zerg tech to mutas, while the Protoss macro zealots and cover the Zerg. 11/12 PZ builds where Z opens with 12 hatch expo into mutas with cannon/zealot protection is also common. PPT is the only PP match up where opening with fast goons is generally considered a bad idea. One protoss opening fast goons is only acceptable if the opponents are TTP or TTT. In most cases if PPT faces TXX or PPP the PPT Terran will need to tech. If PPT faces PPZ, ZZP, or ZZZ, M&M is preferable. Generally considered the strongest possible race combination on BGH. PPP can open with FG if there are no Zergs or positions are 11/12 vs only one Zerg. Cannons vs Terrans are the same as with PPZ. A P-War is the match-up when all players are Protoss. Koreans popularized the P-War matchup (on Hunters) because of the very unique playstyle that needs to be done in order to win. You should read easternPROTOSS' excellent teamplay guide, because all of the things he wrote apply here as well. Things that characterize P-War matchup the most are it's very fast paced, micro-orientated playstyle and quite unique build orders that needs to be executed with surgical precision. Since it's not secret that BGH is a Protoss favored map in teamgames, it came to no surprise that this matchup quickly became just as popular on BGH as well."
+        ["source_text"]=>
+        string(2365) "{{BGHNavBox}}
+{{Infobox strategy
+|name= PPX Match Ups
+|race=P
+|image=BigGameHunters.jpg
+|caption=3v3 Teamplay
+|matchups=BGH3v3
+}}
+
+==Introduction==
+PPR is one of the strongest choices on BGH. Having two Protoss players on the same team gives the third player a lot of options. Also having the R, not knowing what to prepare for leaves the other team guessing on how to open. This can give the PPR team a big advantage if the other team has opened with a bad guess or a late correction.
+
+==PPZ== 
+PPZ teams will generally have 1 player going tech. The only time when this is not the case is a mirror match. Offensive or containment cannons vs Terran opponents are common as a substitute for tech or an addition to it. Generally the P farthest from the enemies either distance wise or most well protected will go [[Build_Orders_(BGH)#Protoss_Build_Orders|fast goons (FG or FD)]]. The only cases where this is the incorrect build is when you face a mirror or ZZX opponents. In this case, it's best to have the Zerg tech to mutas, while the Protoss macro zealots and cover the Zerg. 11/12 PZ builds where Z opens with 12 hatch expo into mutas with cannon/zealot protection is also common.
+
+==PPT== 
+PPT is the only PP match up where opening with fast goons is generally considered a bad idea. One protoss opening fast goons is only acceptable if the opponents are TTP or TTT. In most cases if PPT faces TXX or PPP the PPT Terran will need to tech. If PPT faces PPZ, ZZP, or ZZZ, M&M is preferable. 
+
+==PPP==
+Generally considered the strongest possible race combination on BGH. PPP can open with FG if there are no Zergs or positions are 11/12 vs only one Zerg. Cannons vs Terrans are the same as with PPZ.
+
+==P-War==
+A P-War is the match-up when all players are Protoss. Koreans popularized the P-War matchup (on Hunters) because of the very unique playstyle that needs to be done in order to win.
+You should read easternPROTOSS' excellent [[Teamplay_(BGH)|teamplay guide]], because all of the things he wrote apply here as well. Things that characterize P-War matchup the most are it's very fast paced, micro-orientated playstyle and quite unique build orders that needs to be executed with surgical precision.
+Since it's not secret that BGH is a Protoss favored map in teamgames, it came to no surprise that this matchup quickly became just as popular on BGH as well."
+        ["text_bytes"]=>
+        int(2365)
+        ["content_model"]=>
+        string(8) "wikitext"
+        ["language"]=>
+        string(2) "en"
+        ["heading"]=>
+        array(5) {
+          [0]=>
+          string(12) "Introduction"
+          [1]=>
+          string(3) "PPZ"
+          [2]=>
+          string(3) "PPT"
+          [3]=>
+          string(3) "PPP"
+          [4]=>
+          string(5) "P-War"
+        }
+        ["opening_text"]=>
+        string(78) "PPX Match Ups 3v3 Teamplay Strategy Information Matchups: BGH3v3 Type: Opening"
+        ["auxiliary_text"]=>
+        array(0) {
+        }
+        ["defaultsort"]=>
+        NULL
+        ["display_title"]=>
+        NULL
+      }
+    }
+  }
 }
